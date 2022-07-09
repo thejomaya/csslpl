@@ -1,5 +1,6 @@
-.flex-container {
+.homepage{
     display: flex;
+    box-sizing: border-box;
 }
 
 .row1 .footer{
