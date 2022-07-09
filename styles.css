@@ -5,14 +5,14 @@
 }
 
 .row1 .footer{
-    background: color #1f2937;
+    background-color: #1f2937;
     flex: 1.5 0 auto;
 }
 .row2{
     flex: 1.2 0 auto;
 }
 .row3{
-    background: color #E5E7EB;
+    background-color: #E5E7EB;
     flex: 1.2 0 auto;
 }
 .row4{
