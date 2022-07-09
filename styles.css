@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.row1{
+.row1, .footer{
     background-color: #1f2937;
     flex: 1.5 0 auto;
 }
