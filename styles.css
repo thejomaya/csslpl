@@ -37,14 +37,15 @@
     font-weight: 800;
 }
 
-.headerlinks{
+.header .headerlinks{
     color: #e5e7eb;
     font-size: 18px;
 }
 
 .header{
     color: #F9FAF8;
-    font-size: 24px
+    font-size: 24px;    
+    align-content: center;
 }
 
 .signup{
