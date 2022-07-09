@@ -40,6 +40,7 @@
 .headerlinks{
     color: #e5e7eb;
     font-size: 18px;
+    align-items: flex-end;
 }
 
 .header{
